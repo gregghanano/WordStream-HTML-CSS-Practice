@@ -1,0 +1,196 @@
+*{
+	font-family:sans-serif;
+}
+.container {
+	background-color:#f4f6f7;
+	display:inline-block;
+	min-width:970px;
+}
+.header {
+	min-width: 970px;
+	height: 75px;
+	display:block;
+	background-color: white;
+	vertical-align:top;
+}
+.image-left {
+	display:inline-block;
+	height:100%;
+	width: 500px;
+	margin-top:10px;
+	margin-left:5px;
+}
+.header nav {
+	background-color:white;
+	display:inline-block;
+	vertical-align:top;
+	height:40px;
+	border-top:1px solid white;
+	margin-left: 60px;
+}
+	.header ul {
+		padding-top:0px;
+		padding-left:20px;
+		vertical-align:top;
+		padding-bottom: 0px;
+		margin-bottom:0px;
+	}
+	.header li {
+		display:inline;
+		list-style-type:none;
+		background-color: white;
+		vertical-align:top;
+		margin-bottom: 10px;
+		border-right:1px solid black;
+		padding-right: 10px;
+	}
+.header button {
+	display:inline-block;
+	vertical-align:top;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.sub-title {
+	display:block;
+	min-width:970px;
+	height:50px;
+	background-color:#007abd;
+	color: white;
+	margin: 0 auto;
+	line-height:50px;
+	padding-left:20px;
+}
+h2 {
+	margin-top:0px;
+}
+.white-space {
+	height: 80px;
+	min-width: 970px;
+	background-color:none;
+	padding-left: 270px;
+}
+.left-top-ad {
+	height: 600px;
+	width: 250px;
+	display:inline-block;
+	margin: 0px;
+	vertical-align:top;
+	background-color:none;
+	padding: 0px 5px 0px 5px;
+}
+.left-top-ad h3 {
+	color: #007abd;
+}
+.left-top-ad h4 {
+	margin: 0px auto;
+	color: orange;
+	margin-bottom:3px;
+	font-size:12px;
+}
+.left-top-ad p {
+	margin: 0 auto;
+	font-size: 12px;
+}
+.left-bottom-ad{
+	height: 231px;
+	width: 187px;
+	background-image:url("http://i.imgur.com/PCpwGpC.png");
+	display:inline-block;
+	margin-left:25px;
+	padding: 10px 0px 0px 10px;
+}
+.left-bottom-ad h4 {
+	color: #007abd;
+	margin-right: 20px;
+	font-size: 15px;
+	margin-bottom: 10px;
+}
+.left-bottom-ad p {
+	margin-right: 20px;
+	font-weight: bold;
+}
+.left-bottom-ad button {
+	background-color:#007abd;
+	border-radius:10px;
+	margin-top:5px;
+	color: white;
+}
+.credit-card{
+	text-align: center;
+}
+.demo-button h3{
+	color: white;
+	height: 30px;
+	background-color: #007abd;
+	width: 240px;
+	margin: 0 auto;
+	text-align: center;
+	border-radius: 10px;
+	padding-top:10px;
+	margin-bottom:5px;
+	margin-top:10px;
+}
+.trial-button h3 {
+	color: white;
+	height: 30px;
+	background-color: orange;
+	width: 240px;
+	margin: 0 auto;
+	text-align: center;
+	border-radius: 10px;
+	padding-top:10px;
+	margin-bottom:5px;
+}
+.body {
+	height: 700px;
+	width: 695px;
+	vertical-align:top;
+	background-color:none;
+	display:inline-block;
+	padding: 10px;
+}
+.body h2{
+	color:#007abd;
+	font-size: 18px;
+}
+.body p, li {
+	font-size:12px;
+}
+.body li {
+	line-height: 20px;
+}
+.body p {
+	line-height: 20px;
+}
+.mid-body-cta {
+	border: 5px solid;
+	border-color: #3fbafc;
+	margin-right: 10px;
+	margin-left:10px;
+	padding: 8px;
+}
+.hand-flag {
+	display:inline-block;
+	margin-right:10px;
+}
+.cta-content {
+	display: inline-block;
+	vertical-align:top;
+	width: 550px;
+}
+.cta-content h2 {
+	font-size: 20px;
+	color: #007abd;
+}
+span {
+	font-weight: bold;
+}
+.cta-content button{
+	color: white;
+	background-color: #64ea38;
+	border-radius: 5px;
+}
+.body h3 {
+	font-size: 18px;
+	color:#007abd;
+}
