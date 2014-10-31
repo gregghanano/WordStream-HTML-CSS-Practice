@@ -48,7 +48,9 @@
 	display:inline-block;
 	vertical-align:top;
 	margin-left: 20px;
-	margin-top: 20px;
+	margin-top: 15px;
+	background-color:#007abd;
+	border-radius:5px;
 }
 .sub-title {
 	display:block;
